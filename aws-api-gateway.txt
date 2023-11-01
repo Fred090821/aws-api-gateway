@@ -1,0 +1,5 @@
+endpoint: https://zpzaj07dk4.execute-api.eu-west-1.amazonaws.com/default/fredFunction
+
+
+-----
+configured to work with aws lambda
